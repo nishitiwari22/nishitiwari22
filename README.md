@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nishi Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India. Currently learning DSA</h3>
+<h3 align="center">A passionate Backend Developer. Currently learning Cloud and Java</h3>
 
-- 🌱 I’m currently learning **DSA and Python**
+- 🌱 I’m currently learning **DevOps and Java**
 
-- 💬 Ask me about **HTML, CSS, JS, C++, C**
+- 💬 Ask me about **Java, JS, Python C++, Cloud & DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishi-tiwari-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishi-tiwari-/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nishi-tiwari-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishi-tiwari-/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:16929857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16929857" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nishitiwari5195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishitiwari5195" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@nishit5195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nishit5195" height="30" width="40" /></a>
